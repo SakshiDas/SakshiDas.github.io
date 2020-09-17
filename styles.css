@@ -1,0 +1,80 @@
+body {
+  background-image: url("img/bg1.jpg");
+
+  position: relative;
+  font-size: 20px;
+  font-family: arial;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#jumb{
+  margin-top:100px;
+  margin-bottom:0;
+  border-radius: 25px;
+}
+
+#para1 {
+
+  align-self:stretch;
+  width: 100%;
+  padding: 10px;
+  border-radius: 25px;
+
+
+}
+
+#me{
+  background-color: #e0c7ca;
+  padding-top: 20px;
+    margin-top: 0px;
+    border-radius: 25px;
+}
+
+#about{
+  background-color: #c99da2;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 20px;
+  border-radius: 25px;
+}
+
+#gallery{
+  background-color: #e6d2d4;
+  padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 25px;
+}
+
+#contact-footer{
+  background-color: #3f2225;
+  padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border-radius: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    align:justify;
+    color: #e6d2d4;
+}
+
+#contact{
+  background-color: #fff;
+  padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+
+    border-radius: 25px;
+}
+
+#img{
+  border-radius: 25px;
+}
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+
+}
